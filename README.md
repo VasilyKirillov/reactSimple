@@ -1,3 +1,7 @@
+---
+Simple react app to learn ci/cd with travis to aws 
+
+==========================================================
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
